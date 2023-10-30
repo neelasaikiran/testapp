@@ -1,0 +1,15 @@
+.menu {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+
+    a {
+        margin: 10px;
+    }
+}
+
+.page {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgb(201, 200, 200);
+}
